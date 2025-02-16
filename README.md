@@ -1,2 +1,2 @@
 # portfolio
-This website tells about me and my work, it is website resume.
+To showcase my technical skills, projects, and achievements, demonstrating my ability to solve complex problems and contribute effectively to innovative solutions.

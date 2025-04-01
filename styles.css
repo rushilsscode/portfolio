@@ -85,6 +85,7 @@ body {
     margin: 0 0.5rem;
 }
 
+
 .profile-summary {
     max-width: 800px;
     margin: 2rem auto;
@@ -165,7 +166,17 @@ section h2 {
     position: absolute;
     left: 0;
 }
+.Certificate-container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
 
+img{
+    border: solid #2c3e50;
+}
 /* Activities */
 .activity-card {
     background: white;
